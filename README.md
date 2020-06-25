@@ -1,1 +1,2 @@
-Eric Ianni
+Adam Slusser
+slussera@oregonstate.edu
